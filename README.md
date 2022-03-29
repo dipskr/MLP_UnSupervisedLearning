@@ -1,2 +1,2 @@
 # MLP_UnSupervisedLearning
-Contains data visualization and clustering on various datasets
+Contains data visualization and clustering on Water Treatment datasets
